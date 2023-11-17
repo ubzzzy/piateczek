@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Edit from github
+=======
+new content
+>>>>>>> b3f1141 (First muesli commit)
